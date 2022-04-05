@@ -19,7 +19,7 @@ function Products() {
 <h2>Infinix</h2>
 <img src={phone2} alt="no images seen" />
 <p>Ghc845</p>
-<button>View Phones</button>
+<button>Buy Me</button>
 </div>
 
 
@@ -27,7 +27,7 @@ function Products() {
 <h2>Samsung</h2>
 <img src={phone3} alt="no images seen" />
 <p>Ghc1345</p>
-<button>View Phones</button>
+<button>Buy Me</button>
 </div>
 
 </div>
